@@ -30,8 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image:
-                AssetImage('images/back1.jpeg'), // Your background image here
+            image: AssetImage('images/back3.png'), // Your background image here
             fit: BoxFit.cover,
           ),
         ),
